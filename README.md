@@ -1,7 +1,6 @@
-# Decode a Morse code message
 <br>
 <div align='center'>
-	<h1>Morse Code Decoder</h1>
+	<h1>own Enumerable</h1>
   </div>
 <a name="readme-top"></a>
 
@@ -20,9 +19,9 @@
 - [📝 License](#license)
 
 
-# 📖 Morse Code Decoder <a name="about-project"></a>
+# 📖own Enumerable <a name="about-project"></a>
 
-**Morse Code Decoder** During our vacation at the seaside, my coding partner and  I discovered old bottles with parchment inside. To our surprise, one bottle contained a message written in Morse code. Intrigued by the possibility of finding a lost pirate treasure, we decided to automate the process of decrypting the messages. Leveraging our Ruby programming skills, we've created a Morse code decoder to assist us in this exciting quest.
+**own Enumerable** In this project, my coding partner and I use a module inside our class. For this we create a class MyList and a module MyEnumerable. Our module MyEnumerable implement a subset of the functionality of Enumerable.
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -36,7 +35,8 @@
 
 ### Key Features <a name="key-features"></a>
 
-- Create our own Enumerable
+- Use Ruby syntax for basic programming operations.
+- Apply Ruby best practices and language style guides in code
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -55,7 +55,7 @@ The live demo will be availabe soon
   https://git-scm.com/downloads and install it).
 - Step 2: Once you have installed git you can clone this project using the command below:
   ```
-  git clone https://github.com/ibugithub/Morse-Decoder
+  git clone https://github.com/ibugithub/OurEnumerable
   ```
 - Step 3: Once you have cloned this repo navigate to the folder that contains
   the repository.
@@ -66,24 +66,24 @@ The live demo will be availabe soon
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-To get a local copy up and running cloning this repo `https://github.com/ibugithub/Morse-Decoder`.
+To get a local copy up and running cloning this repo `https://github.com/ibugithub/OurEnumerable`.
 
 ### Prerequisites
 
 There are no known prerequisites to run this project.
 If you encounter any issues trying to run it, please feel free to
-[open a ticket](https://github.com/ibugithub/Morse-Decoder/issues) to let me know and i will work on it to the best
+[open a ticket](https://github.com/ibugithub/OurEnumerable/issues) to let me know and i will work on it to the best
 of my abilities
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-`git clone https://github.com/ibugithub/Morse-Decoder`
+`git clone https://github.com/ibugithub/OurEnumerable`
 
 or
 
-`git clone https://github.com/ibugithub/Morse-Decoder` <-- _Only if you have [SSH keys configured](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) on your GitHub account_.
+`git clone https://github.com/ibugithub/OurEnumerable` <-- _Only if you have [SSH keys configured](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) on your GitHub account_.
 
 ### Usage
 
@@ -119,7 +119,7 @@ To run the project:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/ibugithub/Morse-Decoder/issues).
+Feel free to check the [issues page](https://github.com/ibugithub/OurEnumerable/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
